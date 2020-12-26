@@ -1,0 +1,1097 @@
+model,rads,brand
+120c  ,1.38,Motorola
+120x ,1.19,Motorola
+270c ,1.32,Motorola
+A388 ,0.74,Motorola
+A630 ,0.59,Motorola
+A845 ,1.51,Motorola
+Active W450 ,1.23,Motorola
+Backflip ,1.37,Motorola
+Barrage ,1.25,Motorola
+Bobby Jones i99cl ,1.39,Motorola
+Brute i680 ,0.59,Motorola
+C139 ,1.45,Motorola
+C168i (AT&T) ,1.44,Motorola
+C290 ,1.53,Motorola
+C332 ,0.865,Motorola
+C333 (CDMA) ,1.33,Motorola
+C350g ,0.93,Motorola
+C650 ,1.38,Motorola
+Cliq ,0.69,Motorola
+Cliq XT ,1.36,Motorola
+Clutch i425 ,1.17,Motorola
+Crush ,1.53,Motorola
+Debut i856 ,0.88,Motorola
+Deluxe ic902 ,1.53,Motorola
+Devour ,0.45,Motorola
+Droid ,1.49,Motorola
+E815 ,1.24,Motorola
+Entice W766 ,1.4,Motorola
+Evoke QA4 ,1.13,Motorola
+G520 ,0.457,Motorola
+Hint QA30 ,1.4,Motorola
+Hint QA30 (Cricket) ,1.4,Motorola
+Hollywood ,1.24,Motorola
+i1000plus ,0.43,Motorola
+i2000plus ,0.79,Motorola
+i265 ,1.16,Motorola
+i30sx ,0.748,Motorola
+i315 ,1.45,Motorola
+i335 ,1.53,Motorola
+i355 ,1.45,Motorola
+i365 ,1.09,Motorola
+i425 ,1.35,Motorola
+i500plus ,0.69,Motorola
+i50sx ,1.36,Motorola
+i530 ,1.37,Motorola
+i550plus ,0.69,Motorola
+i570 ,1.05,Motorola
+i576 ,1.45,Motorola
+i580 ,1.02,Motorola
+i580 ,1.02,Motorola
+i58sr ,1.24,Motorola
+i605 ,1.25,Motorola
+i60c ,1.39,Motorola
+i670 ,1.05,Motorola
+i700plus ,0.69,Motorola
+i730 ,1.18,Motorola
+i776 ,1.45,Motorola
+i80s ,1.37,Motorola
+i830 ,1.41,Motorola
+i836 ,1.41,Motorola
+i850 ,1.05,Motorola
+i85s ,1.36,Motorola
+i860 ,0.93,Motorola
+i870 ,0.59,Motorola
+i880 ,1.3,Motorola
+i890 ,0.45,Motorola
+i90c ,1.15,Motorola
+i95cl ,1.39,Motorola
+ic502 ,1.24,Motorola
+Karma QA1 ,0.55,Motorola
+Krave ZN4 ,1.16,Motorola
+Krzr K1 ,1.07,Motorola
+Krzr K1m ,1.03,Motorola
+Krzr K1m (Sprint) ,1.03,Motorola
+M3090 ,0.541,Motorola
+M3097 ,0.53,Motorola
+M3682 ,0.457,Motorola
+Ming A1200 ,0.7,Motorola
+MPx200 ,0.2,Motorola
+MPx220 ,0.75,Motorola
+NASCAR i736 ,1.19,Motorola
+P280 ,0.77,Motorola
+P8097 ,1.31,Motorola
+P8167 ,1.38,Motorola
+P8767 ,1.53,Motorola
+Pebl U6 ,1.2,Motorola
+Q ,1.11,Motorola
+Q Global (AT&T) ,1.29,Motorola
+Q9c ,1.3,Motorola
+Q9h ,1.29,Motorola
+Q9m ,1.3,Motorola
+Quantico ,1.11,Motorola
+Razr Maxx Ve ,1.31,Motorola
+Razr V3 ,0.89,Motorola
+Razr V3c ,1.14,Motorola
+Razr V3i ,1.26,Motorola
+Razr V3m ,1.14,Motorola
+Razr V3m (Sprint) ,1.14,Motorola
+Razr V3x ,0.14,Motorola
+Razr V3xx ,1.21,Motorola
+Razr VE20 ,1.34,Motorola
+Razr2 V8 ,0.36,Motorola
+Razr2 V9 ,0.52,Motorola
+Razr2 V9m ,0.71,Motorola
+Razr2 V9m (Alltel) ,0.71,Motorola
+Razr2 V9x (AT&T) ,0.61,Motorola
+Renegade V950 (Sprint) ,0.66,Motorola
+Renew ,1.26,Motorola
+Rival ,1.59,Motorola
+Rizr ,1.02,Motorola
+Rizr Z6tv ,1.35,Motorola
+Rizr Z8 ,0.91,Motorola
+Rokr E1 ,1.01,Motorola
+Rokr E8 ,1.02,Motorola
+Rokr Z6m ,1.23,Motorola
+SC-3160 ,1.03,Motorola
+Slvr L2 ,1.54,Motorola
+Slvr L6 ,1.58,Motorola
+Slvr L7 ,1.34,Motorola
+Slvr L7c ,1.23,Motorola
+Slvr L7e ,1.48,Motorola
+ST7762 ,0.58,Motorola
+ST7762D ,1.38,Motorola
+ST7790 ,0.34,Motorola
+ST7790i ,0.42,Motorola
+ST7797 ,1.31,Motorola
+ST7860 ,0.59,Motorola
+ST7867 ,1.38,Motorola
+ST7868 and ST7868W ,1.53,Motorola
+Stature i9 ,1.44,Motorola
+T193 ,0.62,Motorola
+T270c ,1.32,Motorola
+T720 ,1.3,Motorola
+T720i ,0.66,Motorola
+T8097 ,1.31,Motorola
+T8167 ,1.38,Motorola
+Talkabout 2297 ,1.4,Motorola
+Timeport L7089 and P7389 ,1.22,Motorola
+Tundra VA76r ,1.36,Motorola
+U9 ,1.36,Motorola
+V120c ,1.55,Motorola
+V180 ,1.39,Motorola
+V188 ,1.39,Motorola
+V195 ,1.6,Motorola
+V195s ,1.6,Motorola
+V220 ,1.23,Motorola
+V2267 ,1.24,Motorola
+V2282 ,0.9,Motorola
+V2397 ,1.17,Motorola
+V265 ,1.55,Motorola
+V300 ,1.23,Motorola
+V325 ,1.14,Motorola
+V330 ,1.4,Motorola
+V360 ,1.51,Motorola
+V365 ,1.51,Motorola
+V3682 ,1.04,Motorola
+V400 ,1.23,Motorola
+V505 ,1.4,Motorola
+V557 ,1.4,Motorola
+V60 ,1.27,Motorola
+V600 ,1.23,Motorola
+V60c ,0.42,Motorola
+V60g ,1.26,Motorola
+V60p (PTT) ,1.26,Motorola
+V60T color ,1.27,Motorola
+V66 ,0.88,Motorola
+V70 ,1.54,Motorola
+V710 ,1.4,Motorola
+V750 ,1.45,Motorola
+V755 ,0.8,Motorola
+V8160 ,1.3,Motorola
+V8162 ,1.28,Motorola
+VE440 (MetroPCS) ,1.49,Motorola
+VU204 ,1.55,Motorola
+VU30 ,0.88,Motorola
+W315 ,1.5,Motorola
+W385 ,1.54,Motorola
+W490 ,1.08,Motorola
+Z6c ,1.49,Motorola
+Z9 ,0.94,Motorola
+ZN5 ,1.59,Motorola
+A7110  ,0.71,LG
+Accolade ,1.27,LG
+Ally ,1.36,LG
+AX275 ,1.34,LG
+AX380 Wave ,1.08,LG
+AX490 ,0.78,LG
+AX5000 ,1.23,LG
+Bliss ,1.21,LG
+C1300 ,0.71,LG
+C1500 ,1.34,LG
+C2000 ,1.01,LG
+CE110 ,1.22,LG
+CE500 ,0.98,LG
+CF360 ,0.676,LG
+CG180 ,1.17,LG
+CG225 ,0.85,LG
+CG300 ,1.04,LG
+Chocolate 3 VX8560 ,1.26,LG
+Chocolate Touch ,1.47,LG
+Cosmos ,1.18,LG
+CU320 ,1.06,LG
+CU400 ,1.14,LG
+CU500 ,1.12,LG
+CU500V ,1.12,LG
+CU515 ,1.3,LG
+CU575 ,1.26,LG
+CU720 Shine ,1.14,LG
+Dare ,1.09,LG
+Decoy ,1.22,LG
+DM-L200 ,0.75,LG
+enV Touch ,0.932,LG
+enV VX9900 ,0.7,LG
+enV(2) ,1.34,LG
+enV3 ,1.34,LG
+F7200 ,0.87,LG
+F9100 ,0.72,LG
+F9200 ,0.89,LG
+Fathom ,0.77,LG
+G4010 ,0.714,LG
+G4011 ,0.7,LG
+G4015 ,0.71,LG
+G4050 ,0.71,LG
+Glance ,1.26,LG
+Glimmer ,1.03,LG
+Imprint ,1.22,LG
+Incite CT810 ,0.73,LG
+Invision ,1.34,LG
+KE970 Shine ,0.443,LG
+KG800 Chocolate ,0.14,LG
+L1150 ,1.45,LG
+L1200 ,0.71,LG
+LG Expo (AT&T) ,1.05,LG
+LG Helix (Cricket) ,1.24,LG
+LG Lotus Elite ,1.2,LG
+Lotus ,1.36,LG
+LX140 Aloha ,1.3,LG
+LX150 ,0.76,LG
+LX160 ,1.19,LG
+LX175 Flare ,1.23,LG
+LX290 ,1.3,LG
+LX350 ,0.75,LG
+LX370 ,1.41,LG
+LX400 ,0.765,LG
+LX5350 ,1.38,LG
+LX5450 ,1.1,LG
+LX550 ,0.6,LG
+LX5550 ,1.21,LG
+Lyric MT375 ,1.23,LG
+Migo VX1000 ,1.24,LG
+MM-535 ,0.36,LG
+Muziq (LG 570) ,1.22,LG
+Neon ,0.998,LG
+PM-225 ,0.9,LG
+PM-325 ,0.95,LG
+Remarq ,1.22,LG
+Rhythm ,0.798,LG
+Rumor ,1.22,LG
+Rumor 2 ,1.51,LG
+Rumor Touch ,1.2,LG
+Scoop ,1.22,LG
+Shine II ,0.761,LG
+Tritan ,0.9,LG
+Versa ,1.38,LG
+VI-125 ,0.99,LG
+VI5225 ,0.6,LG
+Vu ,1.26,LG
+Vu Plus ,0.67,LG
+VX10000 ,0.765,LG
+VX3100 ,1.27,LG
+VX3100L ,1.27,LG
+VX3200 ,1.17,LG
+VX3300 ,1.1,LG
+VX3400 ,0.963,LG
+VX3450 ,0.937,LG
+VX4400 ,1,LG
+VX4500 ,1.17,LG
+VX4600 ,1.22,LG
+VX4700 ,1.14,LG
+VX5200 ,1.23,LG
+VX5300 ,1.27,LG
+VX5400 ,1.2,LG
+VX5500 ,0.953,LG
+VX6000 ,1.32,LG
+VX6100 ,0.93,LG
+VX7000 ,1.27,LG
+VX8000 ,0.865,LG
+VX8100 ,1.16,LG
+VX8300 ,1.21,LG
+VX8350 ,1.3,LG
+VX8360 ,1.14,LG
+VX8500 Chocolate ,1.13,LG
+VX8550 Chocolate ,1.29,LG
+VX8600 ,0.68,LG
+VX8700 ,1.13,LG
+VX8800 ,1.26,LG
+VX9400 ,1.25,LG
+VX9800 ,0.85,LG
+Wine ,1.3,LG
+Wine II ,1.22,LG
+Xenon ,0.686,LG
+1155,1.47,Kyocera
+2119,0.416,Kyocera
+2135,1.33,Kyocera
+2235,1.4,Kyocera
+2255,1.47,Kyocera
+2325,1.03,Kyocera
+2345,1.24,Kyocera
+3225,1.12,Kyocera
+3245,1.19,Kyocera
+5135,1.31,Kyocera
+7135,0.888,Kyocera
+Jax S1300 ,1.55,Kyocera
+K10 ,1.12,Kyocera
+K127 Marbl ,1.25,Kyocera
+K312P ,1.42,Kyocera
+K323 ,1.41,Kyocera
+K325 Cyclops ,1.23,Kyocera
+K4130 SoHo ,0.76,Kyocera
+KE413 ,1.32,Kyocera
+KE414 ,1.46,Kyocera
+KE424 ,1.46,Kyocera
+KE424C ,1.39,Kyocera
+KE434C ,1.32,Kyocera
+KX2 Koi ,0.85,Kyocera
+KX444 ,1.46,Kyocera
+Laylo ,1.31,Kyocera
+Loft S2300 ,1.16,Kyocera
+Mako S4000 ,1.23,Kyocera
+Oystr ,0.94,Kyocera
+QCP-2035 ,1.28,Kyocera
+QCP-3035 ,1.29,Kyocera
+QCP-6035 ,1.41,Kyocera
+S14 ,1.31,Kyocera
+SE47 ,1.22,Kyocera
+Slider SE47 ,1.2,Kyocera
+Switch Back ,1.1,Kyocera
+TNT ,0.92,Kyocera
+Wild Card ,1.46,Kyocera
+X-tc ,1.45,Kyocera
+AT&T Quickfire ,0.563,UTStarcom/PCD
+CDM-105 ,1.37,UTStarcom/PCD
+CDM-120 ,1.16,UTStarcom/PCD
+CDM-135 and CDM-135XL ,0.529,UTStarcom/PCD
+CDM-180 ,1.15,UTStarcom/PCD
+CDM-3300 ,0.7162,UTStarcom/PCD
+CDM-4000 ,1,UTStarcom/PCD
+CDM-8000 ,1.19,UTStarcom/PCD
+CDM-8500 ,1.15,UTStarcom/PCD
+CDM-8600 ,1.23,UTStarcom/PCD
+CDM-8900 ,1.15,UTStarcom/PCD
+CDM-8905 ,1.32,UTStarcom/PCD
+CDM-8910VW ,1.27,UTStarcom/PCD
+CDM-8940 ,1.15,UTStarcom/PCD
+CDM-8945 ,1.39,UTStarcom/PCD
+CDM-9000 ,0.85,UTStarcom/PCD
+CDM-9100 ,1.461,UTStarcom/PCD
+CDM-9155 ,1.49,UTStarcom/PCD
+CDM-9500 ,1.35,UTStarcom/PCD
+CDM-9900 ,0.85,UTStarcom/PCD
+CMP ,1.03,UTStarcom/PCD
+Cricket TXTM8 ,1.3,UTStarcom/PCD
+Flasher V7 ,1.15,UTStarcom/PCD
+G'zOne Type Boulder ,1.04,UTStarcom/PCD
+G'zOne Type-S ,1.34,UTStarcom/PCD
+G'zOne Type-V ,1.28,UTStarcom/PCD
+HGP2000E ,0.7496,UTStarcom/PCD
+PCX-1000XL ,0.9766,UTStarcom/PCD
+PPC4100 ,1.32,UTStarcom/PCD
+PPC6601 ,0.12,UTStarcom/PCD
+SMT5600 ,0.61,UTStarcom/PCD
+Sprint PM-8920 ,1.19,UTStarcom/PCD
+Sprint VM4050 ,0.85,UTStarcom/PCD
+Verizon Wireles Blitz ,1.19,UTStarcom/PCD
+Verizon Wireless CDM8950 ,1.3,UTStarcom/PCD
+Verizon Wireless CDM8975 ,1.3,UTStarcom/PCD
+Verizon Wireless Coupe 8630 ,0.628,UTStarcom/PCD
+Verizon Wireless Escapade ,1.29,UTStarcom/PCD
+Virgin Mobile Arc ,1.37,UTStarcom/PCD
+Virgin Mobile Shuttle ,1.26,UTStarcom/PCD
+Virgin Mobile Slice (UTStarcom PCS1400) ,1.47,UTStarcom/PCD
+Virgin Mobile Super Slice ,1.47,UTStarcom/PCD
+XV6800 ,1.3,UTStarcom/PCD
+1260,0.69,Nokia
+1261,0.81,Nokia
+1661,1.31,Nokia
+1680,1.39,Nokia
+2170,1.4,Nokia
+2260,0.65,Nokia
+2270,1.17,Nokia
+2320,1.47,Nokia
+2600,1.43,Nokia
+2660,1.01,Nokia
+2680,0.64,Nokia
+3100,0.98,Nokia
+3120,0.75,Nokia
+3200,0.46,Nokia
+3205,1.29,Nokia
+3220,0.57,Nokia
+3250,0.88,Nokia
+3285,1.41,Nokia
+3300,0.87,Nokia
+3360,0.62,Nokia
+3361,0.63,Nokia
+3390,0.82,Nokia
+3395,0.86,Nokia
+3520,0.7,Nokia
+3555,1.04,Nokia
+3560,0.85,Nokia
+3570,1.14,Nokia
+3585,1.14,Nokia
+3590,1.03,Nokia
+3595,1.08,Nokia
+3600,1.27,Nokia
+3620,1.12,Nokia
+3650,0.83,Nokia
+3711,1.28,Nokia
+5100,0.4,Nokia
+5120,1.02,Nokia
+5140,1.26,Nokia
+5170,1.45,Nokia
+5190,1.29,Nokia
+5300,0.8,Nokia
+6010,1.08,Nokia
+6061,0.77,Nokia
+6085,1,Nokia
+6086,1.15,Nokia
+6101,0.68,Nokia
+6102,0.68,Nokia
+6126,0.89,Nokia
+6133,0.89,Nokia
+6160,1.35,Nokia
+6161,1.27,Nokia
+6162,1.42,Nokia
+6170,0.61,Nokia
+6185,1.07,Nokia
+6190,1.29,Nokia
+6200,0.91,Nokia
+6225,1.12,Nokia
+6230,0.59,Nokia
+6263,0.43,Nokia
+6350,1.03,Nokia
+6360,0.63,Nokia
+6370,0.888,Nokia
+6385,1.09,Nokia
+6590,1.13,Nokia
+6600,0.5,Nokia
+6610,0.45,Nokia
+6650,0.92,Nokia
+6682,0.82,Nokia
+6800,1.2,Nokia
+6820,0.78,Nokia
+7160,0.61,Nokia
+7190,1.29,Nokia
+7210,0.45,Nokia
+7270,1.05,Nokia
+7280,0.83,Nokia
+7370,0.66,Nokia
+7380,0.83,Nokia
+7390,0.26,Nokia
+7610,0.55,Nokia
+8260,0.95,Nokia
+8265,0.93,Nokia
+8270,1.17,Nokia
+8290,1.09,Nokia
+8390,1.05,Nokia
+8800,0.46,Nokia
+8860,1.39,Nokia
+8890,0.94,Nokia
+9290,0.43,Nokia
+9300,0.21,Nokia
+2115I ,0.75,Nokia
+2366i ,0.87,Nokia
+2705 Shade ,1.22,Nokia
+2705 Shade ,1.22,Nokia
+2720 Fold ,0.96,Nokia
+3585i ,1.14,Nokia
+3586i ,1.18,Nokia
+5130 Xpress Music ,0.88,Nokia
+5170i ,1.49,Nokia
+5185i ,1.41,Nokia
+5230 Nuron ,1.16,Nokia
+5310 Xpress Music ,1.25,Nokia
+5700 Xpress Music ,1.33,Nokia
+5800 Navigation Edition ,1.29,Nokia
+5800 Xpress Music ,0.97,Nokia
+6015i ,1.28,Nokia
+6016i ,1.14,Nokia
+6185i ,1.41,Nokia
+6215i ,0.83,Nokia
+6236i ,1.24,Nokia
+6255i ,1.27,Nokia
+6305i ,0.79,Nokia
+6310i ,0.84,Nokia
+6500 Classic ,1.2,Nokia
+6555 (AT&T) ,1.25,Nokia
+6590i ,1.13,Nokia
+6750 Mural ,1,Nokia
+7205 Intrigue ,1.08,Nokia
+7500 Prism (Unlocked) ,0.61,Nokia
+7510 (T-Mobile) ,0.84,Nokia
+7610 Supernova ,0.81,Nokia
+7705 Twist ,0.7,Nokia
+8265i ,0.93,Nokia
+Digital 5160 ,1.45,Nokia
+E55 ,1.19,Nokia
+E61 ,1.14,Nokia
+E61i ,0.83,Nokia
+E63 ,1.24,Nokia
+E65 ,0.74,Nokia
+E70 ,0.9,Nokia
+E71x ,1.53,Nokia
+E73 Mode (T-Mobile) ,1.07,Nokia
+E75 ,0.99,Nokia
+E90 Communicator ,0.59,Nokia
+Luna ,0.72,Nokia
+Mirage 2605 ,1.12,Nokia
+N75 ,0.68,Nokia
+N76 ,1.04,Nokia
+N78 ,1.26,Nokia
+N79 ,1.4,Nokia
+N80 ,0.86,Nokia
+N81 ,0.78,Nokia
+N82 ,0.78,Nokia
+N85 ,0.91,Nokia
+N86 ,1.01,Nokia
+N90 ,0.22,Nokia
+N900 ,0.92,Nokia
+N91 ,0.74,Nokia
+N95 ,0.49,Nokia
+"N95 (8GB, Unlocked) ",0.79,Nokia
+N95 (North American edition) ,1.27,Nokia
+N96 ,0.96,Nokia
+N97 ,0.74,Nokia
+N-Gage ,0.37,Nokia
+Nokia E72 ,1.39,Nokia
+Nokia N97 Mini ,0.91,Nokia
+Surge 6790 ,0.81,Nokia
+VI-3155i ,1.22,Nokia
+Centro  ,1.35,Palm
+Centro (AT&T) ,0.74,Palm
+Centro (Verizon Wireless) ,1.09,Palm
+Pixi (Sprint) ,1.21,Palm
+Pixi Plus (AT&T) ,1.43,Palm
+Pixi Plus (Verizon Wireless) ,1.47,Palm
+Pre ,0.919,Palm
+Pre Plus (AT&T) ,0.923,Palm
+Pre Plus (Verizon Wireless) ,0.919,Palm
+Treo 650 CDMA ,1.33,Palm
+Treo 650 GSM ,1.51,Palm
+Treo 700p (Sprint) ,1.48,Palm
+Treo 700p (Verizon) ,1.48,Palm
+Treo 700w ,1.26,Palm
+Treo 700wx ,1.26,Palm
+Treo Pro (Sprint) ,1.4,Palm
+Breeze C520 ,0.74,Pantech
+Breeze II (AT&T) ,0.74,Pantech
+C120 ,1.13,Pantech
+C150 ,0.66,Pantech
+C300 ,1.42,Pantech
+C610 ,1.16,Pantech
+C630 ,1.36,Pantech
+DM-P100 ,1.15,Pantech
+DM-P205 ,1.4,Pantech
+Duo C810 ,1.07,Pantech
+Helio Ocean 2 ,1.02,Pantech
+Hero (Helio) ,1.3,Pantech
+Impact ,0.72,Pantech
+Link ,0.75,Pantech
+Matrix ,1.52,Pantech
+Matrix Pro ,1.07,Pantech
+Ocean (Helio) ,0.724,Pantech
+PN-210 (Verizon Wireless) ,1.3,Pantech
+PN-215 ,1.3,Pantech
+PN-218 ,1.42,Pantech
+PN-300 (Verizon Wireless) ,1.3,Pantech
+PN-820 ,1.23,Pantech
+Pursuit (AT&T) ,0.98,Pantech
+Reveal ,1.04,Pantech
+Slate ,1.24,Pantech
+Verizon Wireless Razzle ,1.3,Pantech
+BlackBerry 7100g ,0.86,RIM
+BlackBerry 7100i ,1.17,RIM
+BlackBerry 7130c ,1.09,RIM
+BlackBerry 7250 ,1.27,RIM
+BlackBerry 7750 ,1.27,RIM
+BlackBerry 7750 ,1.27,RIM
+BlackBerry 8820 (AT&T) ,1.28,RIM
+BlackBerry 8820 (T-Mobile) ,1.28,RIM
+BlackBerry 8830 (Sprint) ,1.46,RIM
+BlackBerry 8830 (Verizon Wireless) ,1.46,RIM
+BlackBerry Bold ,1.51,RIM
+BlackBerry Bold 9650 (Sprint) ,1.35,RIM
+BlackBerry Bold 9650 (Verizon) ,1.43,RIM
+BlackBerry Bold 9700 ,1.37,RIM
+BlackBerry Curve (aka BlackBerry 8300) ,1.51,RIM
+BlackBerry Curve (AT&T) ,1.51,RIM
+BlackBerry Curve (T-Mobile) ,1.51,RIM
+BlackBerry Curve 8330 (Sprint) ,1.54,RIM
+BlackBerry Curve 8330 (U.S. Cellular) ,1.54,RIM
+BlackBerry Curve 8330 (Verizon Wireless) ,1.54,RIM
+BlackBerry Curve 8350i ,0.88,RIM
+BlackBerry Curve 8520 (T-Mobile) ,1.22,RIM
+BlackBerry Curve 8530 (Sprint) ,1.31,RIM
+BlackBerry Curve 8530 (Verizon Wireless) ,1.31,RIM
+BlackBerry Curve 8900 (AT&T) ,1.01,RIM
+BlackBerry Curve 8900 (T-Mobile) ,1.01,RIM
+BlackBerry Pearl 8120 (AT&T) ,1.48,RIM
+BlackBerry Pearl 8120 (T-Mobile) ,1.48,RIM
+BlackBerry Pearl 8130 (Verizon Wireless) ,1.48,RIM
+BlackBerry Pearl Flip 8230 (Alltel) ,1,RIM
+BlackBerry Pearl Flip 8230 (Verizon Wireless) ,1.23,RIM
+BlackBerry Storm 2 9550 ,1.01,RIM
+BlackBerry Storm 9530 ,0.5,RIM
+BlackBerry Tour 9630 (Sprint) ,1.43,RIM
+BlackBerry Tour 9630 (Verizon Wireless) ,1.43,RIM
+BlackBerry Tour 9630 without camera (Verizon Wireless) ,1.43,RIM
+A1200 Gleam ,0.7,Samsung
+Access SGH-A827 ,0.782,Samsung
+Ace (SPH-i325) ,1,Samsung
+Alias 2 SCH-U750 ,0.541,Samsung
+Armani ,0.92,Samsung
+Axle SCH-R311 ,1.06,Samsung
+Bang & Olufsen Serene (Samsung SGH-E910) ,0.33,Samsung
+Behold II ,0.67,Samsung
+Behold SGH-T919 ,0.985,Samsung
+BlackJack II ,1.2,Samsung
+Blast SGH-T729 ,0.84,Samsung
+Blue Earth ,0.196,Samsung
+Byline SCH-R310 ,1.05,Samsung
+Caliber ,0.667,Samsung
+Code SCH-i220 ,0.623,Samsung
+Comeback SGH-T559 ,1.35,Samsung
+Convoy SCH-U640 ,0.912,Samsung
+Delve SCH-r800 ,1.04,Samsung
+DM-S105 ,1.46,Samsung
+DM-S110 ,1.46,Samsung
+Drift (Helio) ,0.41,Samsung
+Epix ,1.3,Samsung
+Eternity SGH-A867 ,0.194,Samsung
+Exclaim SPH-M550 ,0.78,Samsung
+Exec (U.S. Cellular) ,1.12,Samsung
+Fin (Helio) ,1.27,Samsung
+Finesse SCH-r810 ,1.22,Samsung
+Flight SGH-A797 ,0.505,Samsung
+FlipShot SCH-U900 ,1.4,Samsung
+Freeform ,0.48,Samsung
+Glint SCH-U350 ,1.09,Samsung
+Gloss SCH-U440 ,1.21,Samsung
+Glyde SCH-U940 ,1.08,Samsung
+Gravity 2 ,0.547,Samsung
+Gravity SGH-T459 ,0.487,Samsung
+Heat (Helio) ,1.46,Samsung
+Highlight SGH-T749 ,1.31,Samsung
+Highnote ,1.45,Samsung
+Hue II SCH-R600 ,1.07,Samsung
+Hue SCH-R500 ,1.27,Samsung
+i8910 Omnia HD ,0.67,Samsung
+Impression SGH-A877 ,0.27,Samsung
+Innov8 ,0.287,Samsung
+Instinct ,1.46,Samsung
+Instinct HD SPH-M850 ,1.16,Samsung
+Instinct S30 ,1.33,Samsung
+Intensity SCH-U450 ,0.727,Samsung
+Intrepid ,1.07,Samsung
+IP-830w ,1.17,Samsung
+Jack ,1.04,Samsung
+JetSet SCH-r550 ,1.05,Samsung
+Jetset SCH-r550 (Cricket) ,1.05,Samsung
+Jitterbug Dial (SPH-A120) ,0.5,Samsung
+Jitterbug J ,1.22,Samsung
+Jitterbug OneTouch (SPH-A110) ,0.5,Samsung
+Juke SCH-U470 ,1.04,Samsung
+Katalyst ,0.662,Samsung
+Knack SCH-U310 ,1.14,Samsung
+M240 ,0.867,Samsung
+Magnet SGH-A257 ,0.637,Samsung
+Mantra (Virgin Mobile) ,0.932,Samsung
+Messager II SCH-R560 ,1.1,Samsung
+Messager R450 ,1.42,Samsung
+Messager Touch (U.S. Cellular) ,0.95,Samsung
+MM-A700 ,1.14,Samsung
+MM-A800 ,0.68,Samsung
+MM-A880 ,1.38,Samsung
+MM-A940 ,0.9,Samsung
+Moment ,0.67,Samsung
+Muse SCH-U706 ,0.887,Samsung
+MyShot II SCH-R460 (Cricket) ,1,Samsung
+MyShot SCH-R430 ,0.789,Samsung
+Mysto (Helio) ,1.39,Samsung
+Mythic A897 ,0.67,Samsung
+Omnia ,1.31,Samsung
+Omnia II ,1.06,Samsung
+PM-A840 ,1.29,Samsung
+Propel - SGH-A767 ,0.968,Samsung
+Propel Pro ,0.473,Samsung
+Rant ,1.01,Samsung
+Reality ,0.99,Samsung
+Reclaim SPH-M560 ,1.16,Samsung
+Renown SCH-U810 ,0.958,Samsung
+Restore (Sprint) ,0.72,Samsung
+Rogue SCH-U960 ,1.36,Samsung
+Rugby II SGH-A847(AT&T) ,0.52,Samsung
+Rugby SGH-A837 (AT&T) ,0.46,Samsung
+Saga ,0.687,Samsung
+SCH-3500 ,0.6655,Samsung
+SCH-411 ,1.0747,Samsung
+SCH-6100 ,1.2672,Samsung
+SCH-8500 ,0.969,Samsung
+SCH-A310 ,1.357,Samsung
+SCH-A530 ,1.47,Samsung
+SCH-A610 ,1.46,Samsung
+SCH-A650 ,1.47,Samsung
+SCH-A670 ,1.38,Samsung
+SCH-A790 ,1.47,Samsung
+SCH-A870 ,1.47,Samsung
+SCH-A890 ,1.47,Samsung
+SCH-A930 ,1.29,Samsung
+SCH-A950 ,1.47,Samsung
+SCH-A970 ,1.45,Samsung
+SCH-A990 ,1.09,Samsung
+SCH-I300 ,1.45,Samsung
+SCH-i600 ,1.43,Samsung
+SCH-i760 ,0.73,Samsung
+SCH-i830 ,1.43,Samsung
+SCH-N150 ,1.41,Samsung
+SCH-N330 ,1.41,Samsung
+SCH-R500 Hue (Alltel) ,1.27,Samsung
+SCH-R510 ,1.28,Samsung
+SCH-T300 ,1.26,Samsung
+SCH-U340 ,1.39,Samsung
+SCH-U410 ,1.36,Samsung
+SCH-U420 Nimbus ,1.28,Samsung
+SCH-U430 ,1.07,Samsung
+SCH-U520 ,1.17,Samsung
+SCH-U540 ,1.34,Samsung
+SCH-U550 ,1.39,Samsung
+SCH-U620 Mobi ,0.958,Samsung
+SCH-U700 Gleam ,0.872,Samsung
+SCH-U740 ,0.68,Samsung
+Seek (Sprint) ,1.08,Samsung
+SGH T119 ,0.958,Samsung
+SGH-a107 GoPhone (AT&T) ,0.3,Samsung
+SGH-A117 ,0.96,Samsung
+SGH-a127 ,1.24,Samsung
+SGH-A167 ,0.452,Samsung
+SGH-A167 ,0.452,Samsung
+SGH-A177 ,0.724,Samsung
+SGH-A227 ,1.13,Samsung
+SGH-A237 ,1.14,Samsung
+SGH-A437 ,1.1,Samsung
+SGH-A517 ,1.27,Samsung
+SGH-A637 ,1.24,Samsung
+SGH-A657 ,0.682,Samsung
+SGH-A717 ,0.58,Samsung
+SGH-A727 ,1.05,Samsung
+SGH-A737 ,0.655,Samsung
+SGH-A777 ,1.19,Samsung
+SGH-C225 ,1.16,Samsung
+SGH-C417 ,1.51,Samsung
+SGH-D307 ,1.01,Samsung
+SGH-D357 ,1.37,Samsung
+SGH-D407 ,1.38,Samsung
+SGH-D415 ,0.6,Samsung
+SGH-D807 ,0.516,Samsung
+SGH-D900 (Black Carbon) ,1.04,Samsung
+SGH-E105 ,0.47,Samsung
+SGH-E316 ,1.2,Samsung
+SGH-E335 ,0.92,Samsung
+SGH-E635 ,0.7,Samsung
+SGH-E715 ,1.41,Samsung
+SGH-G800 ,0.23,Samsung
+SGH-i450 ,0.457,Samsung
+SGH-N105 ,1.24,Samsung
+SGH-N625 ,0.8,Samsung
+SGH-P107 ,1.13,Samsung
+SGH-P207 ,0.68,Samsung
+SGH-P300 ,1.25,Samsung
+SGH-P735 ,0.39,Samsung
+SGH-P777 ,0.87,Samsung
+SGH-Q105 ,1.43,Samsung
+SGH-R225M ,0.98,Samsung
+SGH-S105 ,0.296,Samsung
+SGH-S307 ,1.47,Samsung
+SGH-T109 ,0.8,Samsung
+SGH-T139 ,0.59,Samsung
+SGH-T209 ,1.29,Samsung
+SGH-T219 ,1.28,Samsung
+SGH-T229 ,0.383,Samsung
+SGH-T239 ,1.07,Samsung
+SGH-T309 ,1.18,Samsung
+SGH-T329 ,1.38,Samsung
+SGH-T339 ,0.733,Samsung
+SGH-T349 ,1.05,Samsung
+SGH-T409 ,1.22,Samsung
+SGH-T429 ,1.02,Samsung
+SGH-T439 ,0.92,Samsung
+SGH-T509 ,0.74,Samsung
+SGH-T519 ,1.28,Samsung
+SGH-T539 Beat ,0.597,Samsung
+SGH-T609 ,0.59,Samsung
+SGH-T619 ,1.07,Samsung
+SGH-T629 ,0.814,Samsung
+SGH-T639 ,1.47,Samsung
+SGH-T659 ,0.73,Samsung
+SGH-T719 ,1.44,Samsung
+SGH-T809 ,0.32,Samsung
+SGH-T819 ,1.19,Samsung
+SGH-U600 ,0.719,Samsung
+SGH-V205 ,1.44,Samsung
+SGH-V206 ,1.44,Samsung
+SGH-X426 ,0.47,Samsung
+SGH-X427 ,0.47,Samsung
+SGH-x475 ,1.08,Samsung
+SGH-X495 ,1.36,Samsung
+SGH-X497 ,1.14,Samsung
+SGH-X507 ,1.27,Samsung
+SGH-X820 ,1.19,Samsung
+SGH-ZX10 ,1.38,Samsung
+SGH-ZX20 ,0.76,Samsung
+Slash ,0.872,Samsung
+SLM SGH-A747 ,0.478,Samsung
+Smooth ,1.09,Samsung
+Solstice SGH-A887 ,0.85,Samsung
+Soul ,0.24,Samsung
+Spex SCH-R210 ,1.46,Samsung
+SPH-A400 ,1.33,Samsung
+SPH-A420 ,1.32,Samsung
+SPH-A460 ,1.44,Samsung
+SPH-A500 ,1.33,Samsung
+SPH-A560 ,1.2,Samsung
+SPH-A580 ,0.67,Samsung
+SPH-A600 ,1.42,Samsung
+SPH-A640 ,1.23,Samsung
+SPH-A740 (Sprint PM-A740) ,1.05,Samsung
+SPH-A760 (Sprint RL-A760) ,1.35,Samsung
+SPH-A900 ,0.92,Samsung
+SPH-A920 ,0.6,Samsung
+SPH-I330 ,1.37,Samsung
+SPH-I500 ,1.38,Samsung
+SPH-i700 ,1.36,Samsung
+SPH-M220 (Sprint) ,1.08,Samsung
+SPH-M300 ,0.99,Samsung
+SPH-M320 (Sprint) ,1.11,Samsung
+SPH-M330 ,1.22,Samsung
+SPH-M500 ,1.44,Samsung
+SPH-M510 ,1.26,Samsung
+SPH-M520 ,0.761,Samsung
+SPH-M610 ,1.09,Samsung
+SPH-M620 ,1.4,Samsung
+SPH-N200 ,1.3415,Samsung
+SPH-N240 ,1.41,Samsung
+SPH-N270 ,0.912,Samsung
+SPH-N300 ,1.3451,Samsung
+SPH-N400 ,1.01,Samsung
+SP-i600 ,0.97,Samsung
+Stride SCH-R330 (U.S. Cellular) ,0.72,Samsung
+Strive ,0.58,Samsung
+Stunt ,1,Samsung
+Sunburst ,0.857,Samsung
+Sway SCH-U650 ,1.28,Samsung
+Sync (SGH-A707) ,0.236,Samsung
+Tint (MetroPCS) ,1.17,Samsung
+Trance SCH-U940 ,1.34,Samsung
+Trill SCH-R520 ,1.34,Samsung
+TwoStep SCH-R470 ,1.11,Samsung
+VGA 1000 ,1.48,Samsung
+VI660 ,1.43,Samsung
+VI-A820 ,1.42,Samsung
+VM-A680 ,1.05,Samsung
+x105 ,0.49,Samsung
+Z400 ,1.36,Samsung
+Katana  ,0.678,Sanyo
+Katana DLX 8500 ,1.21,Sanyo
+Katana Eclipse ,0.912,Sanyo
+Katana II 6650 ,0.554,Sanyo
+Katana LX ,0.783,Sanyo
+M1 ,0.72,Sanyo
+MM-5600 ,0.72,Sanyo
+MM-7400 ,0.95,Sanyo
+MM-7500 ,0.98,Sanyo
+MM-8300 ,0.89,Sanyo
+MM-9000 ,0.12,Sanyo
+PM-8200 ,1.01,Sanyo
+Pro-200 ,1.21,Sanyo
+Pro-700 ,1.24,Sanyo
+RL-4920 ,1.13,Sanyo
+RL-4930 ,0.374,Sanyo
+RL7300 ,0.97,Sanyo
+S1 ,1.48,Sanyo
+SCP-200 ,1.18,Sanyo
+SCP-2400 ,1.27,Sanyo
+SCP-2700 ,1.25,Sanyo
+SCP-3000 ,0.5811,Sanyo
+SCP-310 ,1.37,Sanyo
+SCP-3100 ,1.28,Sanyo
+SCP-3200 ,1.41,Sanyo
+SCP-3200 ,1.41,Sanyo
+SCP-3810 ,0.87,Sanyo
+SCP-400 ,1.35,Sanyo
+SCP-4500 ,1.4,Sanyo
+SCP-4700 ,1.39,Sanyo
+SCP-4900 ,1.3,Sanyo
+SCP-5000 ,0.657,Sanyo
+SCP-5150 ,1.1309,Sanyo
+SCP-5300 ,1.41,Sanyo
+SCP-5400 ,1.16,Sanyo
+SCP-6000 ,1.28,Sanyo
+SCP-6200 ,1.4597,Sanyo
+SCP-6400 ,0.926,Sanyo
+SCP-6760 Incognito ,1.28,Sanyo
+SCP-7000 ,0.9,Sanyo
+SCP-7050 ,1.22,Sanyo
+SCP-7200 ,1.4,Sanyo
+SCP-8100 ,1.37,Sanyo
+SCP-8400 ,1.1,Sanyo
+VI-2300 ,1.28,Sanyo
+VM4500 ,1.25,Sanyo
+A56,0.86,Siemens
+C56,0.88,Siemens
+C61,0.65,Siemens
+CF62T,1.32,Siemens
+CT56,1.04,Siemens
+CT66,0.75,Siemens
+M46,0.711,Siemens
+M56,1.04,Siemens
+S40,0.33,Siemens
+S46,0.711,Siemens
+S56,0.89,Siemens
+S66,0.76,Siemens
+SL56,1.13,Siemens
+SX1,0.52,Siemens
+SX56,1.13,Siemens
+SX66,0.5,Siemens
+A1228C  ,0.795,Sony Ericsson
+A1228D and1228LX ,0.823,Sony Ericsson
+A1228di ,0.823,Sony Ericsson
+Aino ,0.88,Sony Ericsson
+C902 ,1.32,Sony Ericsson
+Cyber-shot C905 ,1.12,Sony Ericsson
+Equinox TM717 ,0.9,Sony Ericsson
+J300a ,1.12,Sony Ericsson
+K700i ,1.03,Sony Ericsson
+K750i ,0.66,Sony Ericsson
+K790a ,0.58,Sony Ericsson
+K800i ,0.58,Sony Ericsson
+K850i ,1.14,Sony Ericsson
+M600i ,1.15,Sony Ericsson
+Naite ,1.32,Sony Ericsson
+P1i ,0.98,Sony Ericsson
+P800 ,0.64,Sony Ericsson
+P900 ,1.36,Sony Ericsson
+P910 ,1.5,Sony Ericsson
+P990i ,0.78,Sony Ericsson
+S500i ,0.77,Sony Ericsson
+S710a ,0.88,Sony Ericsson
+Satio (Idou) ,1.56,Sony Ericsson
+T200 ,0.37,Sony Ericsson
+T206 ,1.28,Sony Ericsson
+T226 ,1.18,Sony Ericsson
+T237 ,1.18,Sony Ericsson
+T300 ,0.43,Sony Ericsson
+T306 ,0.75,Sony Ericsson
+T310 ,0.57,Sony Ericsson
+T316 ,0.75,Sony Ericsson
+T608 ,1.46,Sony Ericsson
+T610 ,1.21,Sony Ericsson
+T616 ,1.16,Sony Ericsson
+T61c ,1.01,Sony Ericsson
+T61d ,0.76,Sony Ericsson
+T61LX ,0.76,Sony Ericsson
+T61z ,0.92,Sony Ericsson
+T62u ,0.49,Sony Ericsson
+T637 ,1.41,Sony Ericsson
+T68 ,0.74,Sony Ericsson
+T68i ,0.58,Sony Ericsson
+TM506 ,1.43,Sony Ericsson
+W200a ,0.87,Sony Ericsson
+W300i ,1.42,Sony Ericsson
+W350a ,1.48,Sony Ericsson
+W380a ,0.69,Sony Ericsson
+W380a ,0.69,Sony Ericsson
+W518a Walkman ,0.73,Sony Ericsson
+W580i ,1.26,Sony Ericsson
+W600i ,1.26,Sony Ericsson
+W6710i ,1.35,Sony Ericsson
+W760i ,0.81,Sony Ericsson
+W800i ,0.57,Sony Ericsson
+W810i ,1.04,Sony Ericsson
+W850i ,0.6,Sony Ericsson
+W880i ,1.47,Sony Ericsson
+W995a ,1.09,Sony Ericsson
+Xperia X1 ,0.92,Sony Ericsson
+Xperia X10 ,1.43,Sony Ericsson
+Z310a ,1.13,Sony Ericsson
+Z500a ,1.45,Sony Ericsson
+Z520a ,1.47,Sony Ericsson
+Z525a ,1.47,Sony Ericsson
+Z555 ,0.67,Sony Ericsson
+Z600 ,0.31,Sony Ericsson
+Z710i ,1.36,Sony Ericsson
+Z750a ,1.42,Sony Ericsson
+Acer Liquid ,0.645,Other
+Apple iPhone (4GB) ,0.974,Other
+Apple iPhone (8GB) ,0.974,Other
+Apple iPhone 3G (16GB) ,1.38,Other
+Apple iPhone 3G (8GB) ,1.38,Other
+Apple iPhone 3G S (16GB) ,0.79,Other
+Apple iPhone 3G S (32GB) ,0.79,Other
+Apple iPhone 4 (16GB) ,1.17,Other
+Apple iPhone 4 (32GB) ,1.17,Other
+Asus P527 ,0.84,Other
+Beyond E-Tech Duet D8 ,0.109,Other
+Beyond E-Tech Duet D888 ,0.32,Other
+Beyond E-Tech Duet W002 ,0.289,Other
+Casio Exilim C721 ,0.524,Other
+Casio G'zOne Brigade ,0.813,Other
+Casio G'zOne Rock ,1.18,Other
+Cricket Captr ,0.739,Other
+Cricket MSGM8 (Cal-Comp) ,1.27,Other
+Curitel Identity ,1.32,Other
+Doro PhoneEasy 345 ,0.62,Other
+Doro PhoneEasy 410 ,0.445,Other
+Firefly flyPhone ,1.26,Other
+Garmin Nuvifone G60 ,0.949,Other
+Garminfone (T-Mobile) ,0.714,Other
+Google Ion (HTC Magic) ,1.22,Other
+Google Nexus One (HTC) ,0.867,Other
+Helio Kickflip (VK Mobile) ,0.86,Other
+HP iPaq Glisten ,1.25,Other
+HTC Advantage ,0.836,Other
+HTC Aria (AT&T) ,0.95,Other
+HTC Cavalier S630 ,1.3,Other
+HTC Dream T-Mobile G1 ,1.11,Other
+HTC Droid Eris ,1.19,Other
+HTC Droid Incredible ,1.4,Other
+HTC Evo 4G ,1.03,Other
+HTC Fuze ,1.13,Other
+HTC HD2 (T-Mobile) ,1.09,Other
+HTC Hero (Sprint) ,1.13,Other
+HTC Imagio (Verizon Wireless) ,0.498,Other
+HTC Mogul ,1.13,Other
+HTC Ozone ,1.03,Other
+HTC Pure (AT&T) ,1.27,Other
+HTC SMT5800 ,1.49,Other
+HTC Snap ,1.32,Other
+HTC Snap (Alltel) ,1.03,Other
+HTC Tilt 2 ,1.16,Other
+HTC Touch ,1.25,Other
+HTC Touch 2 ,0.826,Other
+HTC Touch Cruise ,1.19,Other
+HTC Touch Diamond (Sprint) ,0.85,Other
+HTC Touch Diamond (Verizon Wireless) ,0.853,Other
+HTC Touch Dual ,1.42,Other
+HTC Touch HD ,0.72,Other
+HTC Touch Pro (Sprint) ,1.43,Other
+HTC Touch Pro (Verizon Wireles/smartphones/htc-touch-pro-verizon/4505-6452_7-33408745.html ,1.43,Other
+HTC Touch Pro 2 (Sprint) ,1.41,Other
+HTC Touch Pro 2 (T-Mobile) ,1.2,Other
+HTC Touch Pro 2 (Verizon Wireless) ,1.41,Other
+HTC Vox S710 ,0.8,Other
+Huawei M328 (MetroPCS) ,1.38,Other
+Huawei M750 ,1.14,Other
+Kin One ,1.38,Other
+Kin Two ,0.29,Other
+NEC 232E HDM ,0.33,Other
+NEC 515 HDM ,1.2,Other
+NEC 525 ,1.2,Other
+NEC 535 ,0.56,Other
+NEC L1 ,1.04,Other
+Pharos Traveler GPS 127 ,0.63,Other
+Pharos Traveler GPS 137 ,0.758,Other
+Sharp TM150 ,0.82,Other
+Sharp Z-800 ,1.18,Other
+Sonim XP1 ,0.6,Other
+Sonim XP3 Quest ,0.77,Other
+T-Mobile Dash 3G ,1.47,Other
+T-Mobile MyTouch 3G ,1.37,Other
+T-Mobile MyTouch 3G Slide ,1.15,Other
+T-Mobile Shadow (HTC) ,1.53,Other
+T-Mobile Shadow (HTC) 2009 ,1.38,Other
+T-Mobile Sidekick 3 ,0.5,Other
+T-Mobile Sidekick iD ,0.63,Other
+T-Mobile Sidekick II ,0.54,Other
+T-Mobile Sidekick LX (Sharp) ,0.89,Other
+T-Mobile Sidekick LX 2009 (Sharp) ,0.847,Other
+T-Mobile Sidekick Slide ,0.67,Other
+T-Mobile Tap (Huawei) ,1.09,Other
+T-Mobile Wing ,0.717,Other
+Velocity 103 ,0.98,Other
+Verizon Wireless XV6900 ,1.25,Other
+VK2020 ,0.91,Other
+Wherify Wherifone G560 ,0.94,Other
+ZTE C78 ,0.994,Other
+ZTE C79 ,0.869,Other
+ZTE C88 ,1.17,Other
